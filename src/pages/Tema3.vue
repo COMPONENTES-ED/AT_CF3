@@ -202,7 +202,7 @@
                 <p class="mt-4">
                   En líneas de producción, los sistemas de transporte y
                   manipulación requieren automatización para coordinar el
-                  movimiento de materiales. Los sensores y plcs controlan la
+                  movimiento de materiales. Los sensores y PLCs controlan la
                   velocidad y dirección de transportadores, asegurando que los
                   materiales se muevan de forma sincronizada en la línea.
                 </p>
@@ -235,7 +235,8 @@
         </div>
       </div>
       <p class="mt-4" data-aos="fade-right">
-        Se recomiendan los siguientes recursos de acceso libre para complementar
+        Se recomiendan los siguientes recursos de acceso libre para
+        complementar:
       </p>
       <div class="row mt-4 justify-content-center">
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
@@ -277,7 +278,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="#"
+            href="https://www.festo.com/manuales/automatismos_basicos.pdf"
             target="_blank"
             style="max-width:fit-content;"
           >

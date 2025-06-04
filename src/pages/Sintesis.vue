@@ -2,7 +2,7 @@
   <div class="curso-main-container pb-3">
     <BannerInterno icono="fas fa-sitemap" titulo="Síntesis"></BannerInterno>
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5">
-      <div class="row">
+      <div class="row mb-5">
         <div class="col-xl-auto d-none d-xl-block" data-aos="fade-right">
           <figure><img src="@/assets/curso/sintesis1.png" /></figure>
         </div>
@@ -60,14 +60,7 @@
           </div>
         </div>
       </div>
-      <p class="mt-4" data-aos="fade-right">
-        El diagrama sirve como una guía visual para explorar los contenidos de
-        este módulo, ayudando a los estudiantes a comprender rápidamente la
-        interrelación de los temas y cómo estos se aplican en un entorno de
-        producción moderna. Se recomienda utilizar este mapa conceptual como
-        complemento al contenido detallado del componente, permitiendo una
-        navegación más estructurada y efectiva de los conceptos presentados.
-      </p>
+
       <div
         class="row justify-content-center p-4"
         style="background-color:#F6F6F6;border-radius:20px;"
@@ -75,6 +68,7 @@
         <div class="col-lg-10 mb-5 bgs p-4 brad">
           <figure data-aos="fade-up" data-aos-duration="750">
             <img
+              class="mb-4"
               src="@/assets/curso/sintesis.svg"
               alt='Se denomina «Diagrama síntesis del componente». Este mapa conceptual presenta una visión general de las "Tecnologías de Automatización y Control de Sistemas Industriales". Se estructura en seis áreas principales: automatización y control industrial, sistemas de información y gestión, gestión de variabilidad espacial y temporal, automatismos eléctricos e instrumentación, hidráulica y neumática, y la importancia de estos conocimientos. Cada rama incluye subtemas específicos que detallan los aspectos técnicos y aplicaciones en la industria moderna.'
             />

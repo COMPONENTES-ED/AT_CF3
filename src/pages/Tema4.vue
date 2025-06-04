@@ -64,7 +64,7 @@
                 ><span
                   ><strong>Sensibilidad y resolución:</strong> la sensibilidad
                   es la capacidad del sensor para detectar pequeños cambios en
-                  la variable medida. la resolución representa la mínima
+                  la variable medida. La resolución representa la mínima
                   variación que el sensor puede detectar, aspectos cruciales en
                   la instrumentación de procesos industriales.</span
                 >
@@ -161,7 +161,7 @@
               <p class="mb-0">
                 Es el control básico en el que el dispositivo se enciende o
                 apaga para mantener la variable dentro de los límites deseados.
-                Aunque es simple, puede causar oscilaciones y es adecuado sólo
+                Aunque es simple, puede causar oscilaciones y es adecuado solo
                 para aplicaciones donde no se requiere un control continuo.
               </p>
             </div>
@@ -281,7 +281,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema4/6.svg"
-            alt="La Figura 1 se denomina «Instrumentación y control en la automatización industrial». El mapa conceptual se ramifica en nueve secciones principales que incluyen la importancia de la instrumentación, funciones, variables críticas, uso de sensores, dispositivos de control, técnicas de medición, técnicas de control, mantenimiento y calibración, y conclusiones. Cada rama principal se expande en subtemas específicos que detallan aspectos como tipos de sensores, métodos de medición y procedimientos de mantenimiento. Para acceder al diagrama:  https://www.mindomo.com/mindmap/51e8e25c3861438d9215600feb04697d"
+            alt="La Figura 1 se denomina «Instrumentación y control en la automatización industrial». El mapa conceptual se ramifica en nueve secciones principales que incluyen la importancia de la instrumentación, funciones, variables críticas, uso de sensores, dispositivos de control, técnicas de medición, técnicas de control, mantenimiento y calibración, y conclusiones. Cada rama principal se expande en subtemas específicos que detallan aspectos como tipos de sensores, métodos de medición y procedimientos de mantenimiento."
           />
         </figure>
       </div>
@@ -302,9 +302,9 @@
                   profesionales gestionar y optimizar procesos industriales con
                   precisión y eficiencia. A través del estudio de sensores,
                   calibración y estrategias de control, y mediante el uso de
-                  simuladores y software especializado, los estudiantes en
-                  modalidad remota pueden desarrollar competencias prácticas y
-                  conceptuales en estas disciplinas clave. Se recomiendan los
+                  simuladores y <em>software</em> especializado, los estudiantes
+                  en modalidad remota pueden desarrollar competencias prácticas
+                  y conceptuales en estas disciplinas clave. Se recomiendan los
                   siguientes recursos de acceso libre para complementar.
                 </p>
               </div>

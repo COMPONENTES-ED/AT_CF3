@@ -186,9 +186,9 @@
               </figure>
               <h5>Optimización de procesos</h5>
               <p>
-                Los si permiten que los procesos productivos sean más
-                eficientes, reduciendo tiempos de ciclo y minimizando los
-                recursos necesarios.
+                Los sistemas de información permiten que los procesos
+                productivos sean más eficientes, reduciendo tiempos de ciclo y
+                minimizando los recursos necesarios.
               </p>
             </div>
           </div>
@@ -273,7 +273,7 @@
                 <p class="mt-4">
                   Es un sistema de supervisión y control que recopila datos en
                   tiempo real de sensores y dispositivos distribuidos en el
-                  entorno industrial. Los sistemas scada permiten el monitoreo y
+                  entorno industrial. Los sistemas Scada permiten el monitoreo y
                   control de operaciones desde una ubicación centralizada,
                   asegurando la eficiencia y seguridad en procesos críticos.
                 </p>
@@ -286,9 +286,9 @@
             </div>
             <div class="row pt-lg-4 col-xl-11 m-auto">
               <div class="col-lg-7 mb-4 mb-lg-0" style="place-self:center;">
-                <h5>Sistemas MES (Manufacturing Execution System)</h5>
+                <h5>Sistemas MES (<em>Manufacturing Execution System</em>)</h5>
                 <p class="mt-4">
-                  Un sistema mes gestiona y controla las operaciones de
+                  Un sistema MES gestiona y controla las operaciones de
                   fabricación en tiempo real. Facilita el seguimiento de cada
                   producto en la línea de producción, asegurando la trazabilidad
                   y el cumplimiento de los estándares de calidad.
@@ -302,7 +302,7 @@
             </div>
             <div class="row pt-lg-4 col-xl-11 m-auto">
               <div class="col-lg-7 mb-4 mb-lg-0" style="place-self:center;">
-                <h5>ERP (Enterprise Resource Planning)</h5>
+                <h5>ERP (<em>Enterprise Resource Planning</em>)</h5>
                 <p class="mt-4">
                   Este sistema integra diversas áreas de la empresa, como
                   finanzas, producción, logística y recursos humanos, en una
@@ -320,7 +320,9 @@
             </div>
             <div class="row pt-lg-4 col-xl-11 m-auto">
               <div class="col-lg-7 mb-4 mb-lg-0" style="place-self:center;">
-                <h5>CMMS (Computerized Maintenance Management System)</h5>
+                <h5>
+                  CMMS (<em>Computerized Maintenance Management System</em>)
+                </h5>
                 <p class="mt-4">
                   Un sistema de gestión de mantenimiento que ayuda a programar,
                   ejecutar y monitorear las actividades de mantenimiento de los
