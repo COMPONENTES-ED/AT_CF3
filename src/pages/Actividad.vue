@@ -22,12 +22,12 @@
           <div class="titulo-segundo">
             <h2>
               Prueba tus conocimientos sobre Tecnologías de Automatización y
-              Control de Sistemas Industriales.
+              control de sistemas industriales
             </h2>
           </div>
           <p class="mb-4">
             Validar el conocimiento adquirido sobre tecnologías de
-            automatización y control de sistemas industriales. Esto se trabaja a
+            Automatización y control de sistemas industriales. Esto se trabaja a
             partir de un conjunto de preguntas con el propósito de buscar una
             dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
             conocimiento declarado dentro del componente.
