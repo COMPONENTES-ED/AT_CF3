@@ -60,6 +60,16 @@
           </div>
         </div>
       </div>
+      <div>
+        <p class="mb-5">
+          El diagrama sirve como una guía visual para explorar los contenidos de
+          este módulo, ayudando a los estudiantes a comprender rápidamente la
+          interrelación de los temas y cómo estos se aplican en un entorno de
+          producción moderna. Se recomienda utilizar este mapa conceptual como
+          complemento al contenido detallado del componente, permitiendo una
+          navegación más estructurada y efectiva de los conceptos presentados.
+        </p>
+      </div>
 
       <div
         class="row justify-content-center p-4"

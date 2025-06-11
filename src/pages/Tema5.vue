@@ -287,8 +287,8 @@
                   La neumática es adecuada para aplicaciones que requieren
                   movimientos rápidos y repetitivos, como en líneas de
                   ensamblaje, herramientas neumáticas y sistemas de embalaje. Es
-                  común en industrias que necesitan realizar operaciones ligeras
-                  pero repetitivas, como la manufactura de alimentos,
+                  común en industrias que necesitan realizar operaciones
+                  ligeras, pero repetitivas, como la manufactura de alimentos,
                   farmacéutica y empaques.
                 </p>
               </div>
@@ -305,7 +305,7 @@
                   En algunas aplicaciones industriales, los sistemas hidráulicos
                   y neumáticos se combinan para aprovechar las ventajas de
                   ambos. Por ejemplo, en maquinaria agrícola, un sistema
-                  hidráulico puede manejar la carga mientras que un sistema
+                  hidráulico puede manejar la carga, mientras que un sistema
                   neumático controla la dosificación de semillas o
                   fertilizantes, optimizando el proceso.
                 </p>
@@ -415,7 +415,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema5/12.svg"
-            alt="La Figura 2 se denomina «La hidráulica y neumática en la automatización industrial». Este mapa conceptual ilustra seis áreas principales: fundamentos de hidráulica con líquidos, uso de gases en neumática, aplicaciones industriales (incluyendo sistemas de elevación y herramientas), principios fundamentales, exploración de aplicaciones comunes y actividades prácticas para estudiantes. Cada rama incluye subtemas específicos que detallan aspectos y usos de estos sistemas. Para ver mejor el esquema acceder a: https://www.mindomo.com/mindmap/5b039076cf8f416c915d1fd143b312e1"
+            alt="En el diagrama «La hidráulica y neumática en la automatización industrial», el mapa conceptual ilustra seis áreas principales: fundamentos de hidráulica con líquidos, uso de gases en neumática, aplicaciones industriales (incluyendo sistemas de elevación y herramientas), principios fundamentales, exploración de aplicaciones comunes y actividades prácticas para estudiantes. Cada rama incluye subtemas específicos que detallan aspectos y usos de estos sistemas."
           />
         </figure>
       </div>

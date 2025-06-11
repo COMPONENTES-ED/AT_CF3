@@ -26,8 +26,8 @@
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre tecnologías de
-            Automatización y control de sistemas industriales. Esto se trabaja a
+            Validar el conocimiento adquirido sobre Tecnologías de
+            automatización y control de sistemas industriales. Esto se trabaja a
             partir de un conjunto de preguntas con el propósito de buscar una
             dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
             conocimiento declarado dentro del componente.
