@@ -21,7 +21,7 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba tus conocimientos sobre Tecnologías de Automatización y
+              Prueba tus conocimientos sobre Tecnologías de automatización y
               control de sistemas industriales
             </h2>
           </div>

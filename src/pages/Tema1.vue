@@ -273,7 +273,7 @@
                 <p class="mt-4">
                   Es un sistema de supervisión y control que recopila datos en
                   tiempo real de sensores y dispositivos distribuidos en el
-                  entorno industrial. Los sistemas Scada permiten el monitoreo y
+                  entorno industrial. Los sistemas SCADA permiten el monitoreo y
                   control de operaciones desde una ubicación centralizada,
                   asegurando la eficiencia y seguridad en procesos críticos.
                 </p>
