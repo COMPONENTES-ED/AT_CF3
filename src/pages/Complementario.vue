@@ -59,100 +59,102 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Introducción a los sistemas de información',
+          tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'ERP School. (2021, March 14). <em>What is an ERP System and How Can it Transform Industry Operations?</em> [Video]. YouTube.',
+            'Fazt [@FaztTech]. (n.d.). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=6Mncbrp80To&t=92s ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
         },
         {
-          tema: 'Introducción a los sistemas de información',
+          tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'Engineering Library. (2018). <em>Introduction to SCADA and Industrial Automation</em>.',
+            'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es. Recuperado el 11 de junio de 2025, de http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
           tipo: 'Documento',
-          link: 'https://www.engineeringlibrary.org/scada_automation.pdf',
+          link:
+            'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf ',
         },
         {
-          tema: 'Gestión de la variabilidad espacial y temporal',
+          tema: 'Gestión de la Variabilidad Espacial y Temporal',
           referencia:
-            'QGIS Development Team. (2021). <em>QGIS Geographic Information System</em>. Open Source Geospatial Foundation Project.',
-          tipo: '<em>Software</em> (GIS)',
+            'Spatial without Compromise. (n.d.). Qgis.org. Recuperado el 11 de junio de 2025, de https://qgis.org/',
+          tipo: 'Software (GIS)',
           link: 'https://qgis.org',
         },
         {
-          tema: 'Gestión de la variabilidad espacial y temporal',
+          tema: 'Gestión de la Variabilidad Espacial y Temporal',
           referencia:
-            'Google Earth Engine. (2021). <em>Earth Engine Data Catalog</em>.',
+            'Google Earth Engine. (n.d.). Google.com. Recuperado el 11 de junio de 2025, de https://earthengine.google.com/ ',
           tipo: 'Plataforma en la nube',
           link: 'https://earthengine.google.com/',
         },
         {
-          tema: 'Automatismos eléctricos',
+          tema: 'Automatismos Eléctricos',
           referencia:
-            'Automation Direct. (2019, November 15). <em>Introduction to PLCs and Industrial Automation</em> [Video]. YouTube.',
+            'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=Yrj1aWS0Tt4',
+          link: 'https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
         },
         {
-          tema: 'Automatismos eléctricos',
+          tema: 'Automatismos Eléctricos',
           referencia:
-            'Festo Didactic. (2009). <em>Manual Básico de Automatismos Eléctricos</em>. Festo Didactic GmbH.',
-          tipo: 'Documento PDF',
-          link: 'https://www.festo.com/manuales/automatismos_basicos.pdf',
+            'Guest. (2022, mayo 3). Logica cableada y programada. [Documento PDF]. Pdfcoffee.com. https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html ',
+          tipo: 'Pagina Web Documento PDF',
+          link:
+            'https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html',
         },
         {
-          tema: 'Automatismos eléctricos',
+          tema: 'Automatismos Eléctricos',
           referencia:
-            'CADe SIMU. (2021). <em>Simulador de Circuitos de Automatización Eléctrica</em>.',
+            'CADeSIMU by canalPLC. (n.d.). [Simulador] Informer.com. Recuperado el 11 de junio de 2025, de https://cadesimu.software.informer.com/download/',
           tipo: 'Simulador',
           link: 'https://cadesimu.software.informer.com/download',
         },
         {
-          tema: 'Instrumentación y control',
+          tema: 'Instrumentación y Control',
           referencia:
-            'RealPars. (2019, June 17). <em>PID Control Explained</em> [Video]. YouTube.',
+            'MATLAB [@MATLAB]. (s/f). What is PID control? | understanding PID control, part 1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=wkfEZmsQqiA',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=wkfEZmsQqiA',
         },
         {
-          tema: 'Instrumentación y control',
+          tema: 'Instrumentación y Control',
           referencia:
-            'Festo Didactic. (2009). <em>Manual Básico de Instrumentación</em>. Festo Didactic GmbH',
+            'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de https://media.festo.com/media/2923_documentation.pdf',
           tipo: 'Documento PDF',
-          link: 'https://www.festo.com/manuales/instrumentacion_basica.pdf',
+          link: 'https://media.festo.com/media/2923_documentation.pdf',
         },
         {
-          tema: 'Instrumentación y control',
+          tema: 'Instrumentación y Control',
           referencia:
-            'MathWorks. (2021). <em>MATLAB – Instrumentation Simulation</em>.',
+            'MathWorks. (2021). MATLAB – Instrumentation Simulation. [Simulador]. https://www.mathworks.com/products/matlab.html',
           tipo: 'Simulador',
           link: 'https://www.mathworks.com/products/matlab.html',
         },
         {
-          tema: 'Hidráulica y neumática',
+          tema: 'Hidráulica y Neumática',
           referencia:
-            'Engineering Mindset. (2020, March 2). <em>Principles of Hydraulic and Pneumatic Systems</em> [Video]. YouTube.',
+            'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas. [Video].  Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2m6o49C98Mc',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=jR4oJUIh3jw',
         },
         {
-          tema: 'Hidráulica y neumática',
+          tema: 'Hidráulica y Neumática',
           referencia:
-            'Festo Didactic. (2018). <em>Manual Básico de Hidráulica y Neumática</em>. Festo Didactic GmbH.',
+            'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de https://media.festo.com/media/241396_documentation.pdf',
           tipo: 'Documento PDF',
-          link: 'https://www.festo.com/manuales/hidraulica_neumatica.pdf',
+          link: 'https://media.festo.com/media/241396_documentation.pdf',
         },
         {
-          tema: 'Hidráulica y neumática',
+          tema: 'Hidráulica y Neumática',
           referencia:
-            'Famic Technologies. (2021). <em>Automation Studio – Pneumatic and Hydraulic Circuit Simulation</em>.',
+            'Famic Technologies. (2021). Automation Studio – Pneumatic and Hydraulic Circuit Simulation. [Simulador]. https://www.automationstudio.com',
           tipo: 'Simulador',
           link: 'https://www.automationstudio.com',
         },
         {
-          tema: 'General (aplicable a varios temas)',
+          tema: 'General (Aplicable a Varios Temas)',
           referencia:
-            'Factory I/O. (2021). <em>Industrial Automation Simulation</em>. Real Games.',
+            'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games. https://factoryio.com/',
           tipo: 'Simulador',
           link: 'https://factoryio.com/',
         },

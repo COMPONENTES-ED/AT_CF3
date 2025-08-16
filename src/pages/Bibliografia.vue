@@ -23,83 +23,101 @@ export default {
     referencias: [
       {
         referencia:
-          'Automation Direct. (2019, November 15). <em>Introduction to PLCs and Industrial Automation</em> [Video]. YouTube.',
-        link: 'https://www.youtube.com/watch?v=Yrj1aWS0Tt4',
+          'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
       },
       {
         referencia:
-          'CADe SIMU. (2021). <em>Simulador de Circuitos de Automatización Eléctrica</em>.',
+          'CADe SIMU. (2021). Simulador de Circuitos de Automatización Eléctrica. [Simulador].',
         link: 'https://cadesimu.software.informer.com/download',
       },
       {
         referencia:
-          'Engineering Library. (2018). <em>Introduction to SCADA and Industrial Automation</em>. ',
-        link: 'https://www.engineeringlibrary.org/scada_automation.pdf',
+          'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es. Recuperado el 11 de junio de 2025, de',
+        link:
+          'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
       },
       {
         referencia:
-          'Engineering Mindset. (2020, March 2). <em>Principles of Hydraulic and Pneumatic Systems</em> [Video]. YouTube.',
-        link: 'https://www.youtube.com/watch?v=jR4oJUIh3jw',
+          'De Ingeniería, M. [MentalidadDeIngenier%C3%ADa]. (s/f). Conceptos Básicos del Controlador de Lógica Programable. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=NPsepHRSCls',
       },
       {
         referencia:
-          'ERP School. (2021, March 14). <em>What is an ERP System and How Can it Transform Industry Operations?</em> [Video]. YouTube.',
-        link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
+          'Edu.co. (n.d.). [Documento PDF]. Recuperado el 11 de junio de 2025, de',
+        link:
+          'https://fiet.unicauca.edu.co/deic/sites/default/files/deic/programa/PLC.pdf',
       },
       {
         referencia:
-          'Esri. (2021). <em>ArcGIS Geographic Information System</em>. Environmental Systems Research Institute.',
+          'Esri. (2021). ArcGIS Geographic Information System. Environmental Systems Research Institute.',
         link: 'https://www.arcgis.com',
       },
       {
         referencia:
-          'Famic Technologies. (2021). <em>Automation Studio – Pneumatic and Hydraulic Circuit Simulation</em>. ',
+          'Famic Technologies. (2021). Automation Studio – Pneumatic and Hydraulic Circuit Simulation. [Simulador].',
         link: 'https://www.automationstudio.com',
       },
       {
         referencia:
-          'Factory I/O. (2021). <em>Industrial Automation Simulation</em>. Real Games.',
+          'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games.',
         link: 'https://factoryio.com/',
       },
       {
         referencia:
-          'Festo Didactic. (2009). <em>Manual Básico de Automatismos Eléctricos</em>. Festo Didactic GmbH. ',
-        link: 'https://www.festo.com/manuales/automatismos_basicos.pdf',
+          'Fazt [@FaztTech]. (s/f). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube. Recuperado el 11 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=6Mncbrp80To&t=92s',
       },
       {
         referencia:
-          'Festo Didactic. (2009). <em>Manual Básico de Instrumentación</em>. Festo Didactic GmbH.',
-        link: 'https://www.festo.com/manuales/instrumentacion_basica.pdf',
+          'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de',
+        link: 'https://media.festo.com/media/2923_documentation.pdf',
       },
       {
         referencia:
-          'Festo Didactic. (2018). <em>Manual Básico de Hidráulica y Neumática</em>. Festo Didactic GmbH.',
-        link: 'https://www.festo.com/manuales/hidraulica_neumatica.pdf',
+          'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de',
+        link: 'https://media.festo.com/media/241396_documentation.pdf',
       },
       {
         referencia:
-          'Google Earth Engine. (2021). <em>Earth Engine Data Catalog</em>.',
+          'Google Earth Engine. (s/f). Google.com. Recuperado el 11 de junio de 2025, de',
         link: 'https://earthengine.google.com/',
       },
       {
         referencia:
-          'Inductive Automation. (2021). <em>Ignition – SCADA/HMI Software</em>. ',
+          'Guest. (2022, mayo 3). Lógica cableada y programada. [Documento PDF]. Pdfcoffee.com.',
+        link:
+          'https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html',
+      },
+      {
+        referencia:
+          'Inductive Automation. (2021). Ignition – SCADA/HMI Software.',
         link: 'https://inductiveautomation.com/',
       },
       {
         referencia:
-          'MathWorks. (2021). <em>MATLAB – Instrumentation Simulation</em>. ',
+          'MathWorks. (2021). MATLAB – Instrumentation Simulation. [Simulador].',
         link: 'https://www.mathworks.com/products/matlab.html',
       },
       {
         referencia:
-          'QGIS Development Team. (2021). <em>QGIS Geographic Information System</em>. Open Source Geospatial Foundation Project. ',
-        link: 'https://qgis.org',
+          'Mecatrónica, B. [@Biwy-mecatronica]. (n.d.). 01 Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=2m6o49C98Mc',
       },
       {
         referencia:
-          'RealPars. (2019, June 17). <em>PID Control Explained</em> [Video]. YouTube. ',
+          'RealPars. (2019, June 17). PID Control Explained [Video]. YouTube.',
         link: 'https://www.youtube.com/watch?v=wkfEZmsQqiA',
+      },
+      {
+        referencia:
+          'Spatial without Compromise. (n.d.). Qgis.org. Recuperado el 11 de junio de 2025, de',
+        link: 'https://qgis.org/',
+      },
+      {
+        referencia:
+          'Unirioja.es. (n.d.). [Documento PDF]. Recuperado el 11 de junio de 2025, de',
+        link: 'https://dialnet.unirioja.es/descarga/articulo/5280242.pdf',
       },
     ],
   }),
