@@ -61,7 +61,7 @@ export default {
         {
           tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'Fazt [@FaztTech]. (n.d.). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=6Mncbrp80To&t=92s ',
+            'Fazt [@FaztTech]. (n.d.). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
         },
@@ -88,7 +88,7 @@ export default {
         {
           tema: 'Automatismos Eléctricos',
           referencia:
-            'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
+            'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
         },
@@ -109,7 +109,7 @@ export default {
         {
           tema: 'Instrumentación y Control',
           referencia:
-            'MATLAB [@MATLAB]. (s/f). What is PID control? | understanding PID control, part 1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=wkfEZmsQqiA',
+            'MATLAB [@MATLAB]. (s/f). What is PID control? | understanding PID control, part 1. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=wkfEZmsQqiA',
         },
