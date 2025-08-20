@@ -68,22 +68,20 @@ export default {
         {
           tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es. Recuperado el 11 de junio de 2025, de http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
+            'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es.',
           tipo: 'Documento',
           link:
-            'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf ',
+            'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
         },
         {
           tema: 'Gestión de la Variabilidad Espacial y Temporal',
-          referencia:
-            'Spatial without Compromise. (n.d.). Qgis.org. Recuperado el 11 de junio de 2025, de https://qgis.org/',
+          referencia: 'Spatial without Compromise. (n.d.). Qgis.org.',
           tipo: 'Software (GIS)',
           link: 'https://qgis.org',
         },
         {
           tema: 'Gestión de la Variabilidad Espacial y Temporal',
-          referencia:
-            'Google Earth Engine. (n.d.). Google.com. Recuperado el 11 de junio de 2025, de https://earthengine.google.com/ ',
+          referencia: 'Google Earth Engine. (n.d.). Google.com.',
           tipo: 'Plataforma en la nube',
           link: 'https://earthengine.google.com/',
         },
@@ -97,15 +95,14 @@ export default {
         {
           tema: 'Automatismos Eléctricos',
           referencia:
-            'Guest. (2022, mayo 3). Logica cableada y programada. [Documento PDF]. Pdfcoffee.com. https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html ',
+            'Guest. (2022, mayo 3). Logica cableada y programada. [Documento PDF]. Pdfcoffee.com.',
           tipo: 'Pagina Web Documento PDF',
           link:
             'https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html',
         },
         {
           tema: 'Automatismos Eléctricos',
-          referencia:
-            'CADeSIMU by canalPLC. (n.d.). [Simulador] Informer.com. Recuperado el 11 de junio de 2025, de https://cadesimu.software.informer.com/download/',
+          referencia: 'CADeSIMU by canalPLC. (n.d.). [Simulador] Informer.com.',
           tipo: 'Simulador',
           link: 'https://cadesimu.software.informer.com/download',
         },
@@ -118,8 +115,7 @@ export default {
         },
         {
           tema: 'Instrumentación y Control',
-          referencia:
-            'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de https://media.festo.com/media/2923_documentation.pdf',
+          referencia: 'Festo.com. (n.d.). [Documento PDF].',
           tipo: 'Documento PDF',
           link: 'https://media.festo.com/media/2923_documentation.pdf',
         },
@@ -139,8 +135,7 @@ export default {
         },
         {
           tema: 'Hidráulica y Neumática',
-          referencia:
-            'Festo.com. (n.d.). [Documento PDF]. Recuperado el 12 de junio de 2025, de https://media.festo.com/media/241396_documentation.pdf',
+          referencia: 'Festo.com. (n.d.). [Documento PDF].',
           tipo: 'Documento PDF',
           link: 'https://media.festo.com/media/241396_documentation.pdf',
         },
@@ -154,7 +149,7 @@ export default {
         {
           tema: 'General (Aplicable a Varios Temas)',
           referencia:
-            'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games. https://factoryio.com/',
+            'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games.',
           tipo: 'Simulador',
           link: 'https://factoryio.com/',
         },
