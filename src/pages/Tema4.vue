@@ -310,12 +310,12 @@
               </div>
             </div>
           </div>
-          <p class="mt-3">
-            Se recomienda profundizar en variables de sistemas productivos y
-            Monitoreo de variables.
-          </p>
         </div>
       </div>
+      <p class="mt-3">
+        Se recomienda profundizar en variables de sistemas productivos y
+        Monitoreo de variables.
+      </p>
       <div class="row mt-4 justify-content-center">
         <div class="col-lg mb-4 mb-lg-0 col-md-6" data-aos="fade-up">
           <a
@@ -336,7 +336,7 @@
         <div class="col-lg col-md-6" data-aos="fade-up">
           <a
             class="anexo ms-0"
-            href="https://www.festo.com/manuales/instrumentacion_basica.pdf"
+            href="https://media.festo.com/media/2923_documentation.pdf"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -344,7 +344,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Manual Básico de Instrumentación.
+                <strong>Enlace web.</strong> Manual Básico de Instrumentación -
+                Guía de productos
               </p>
             </div></a
           >

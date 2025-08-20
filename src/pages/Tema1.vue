@@ -403,7 +403,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://www.youtube.com/watch?v=kDPW2Lle2gQ"
+            href="https://www.youtube.com/watch?v=6Mncbrp80To"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -412,8 +412,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace video.</strong> Video- “What is an ERP System and
-                How Can it Transform Industry Operations?”
+                <strong>Enlace video.</strong> Video - ¿Qué es ERP? - Conoce
+                porque un ERP vital para empresas.
               </p>
             </div></a
           >
@@ -421,7 +421,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://factoryio.com/"
+            href="https://www.cursosaula21.com/que-es-la-simulacion-de-procesos-industriales/"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -430,8 +430,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Simulador: Factory I/O - Simulación
-                de Procesos Industriales.
+                <strong>Enlace web.</strong> Lectura - Qué es la simulación de
+                procesos industriales.
               </p>
             </div></a
           >
@@ -439,7 +439,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://www.engineeringlibrary.org/scada_automation.pdf"
+            href="https://dialnet.unirioja.es/descarga/articulo/5280242.pdf"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -448,8 +448,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Lectura:“Introduction to SCADA and
-                Industrial Automation”.
+                <strong>Enlace web.</strong> Lectura - Los sistemas SCADA en la
+                automatización industrial.
               </p>
             </div></a
           >

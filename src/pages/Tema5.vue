@@ -430,7 +430,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-6" data-aos="fade-up">
           <a
             class="anexo ms-0"
-            href="https://www.youtube.com/watch?v=jR4oJUIh3jw"
+            href="https://www.youtube.com/watch?v=2m6o49C98Mc"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -438,8 +438,7 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace video.</strong> “Principles of Hydraulic and
-                Pneumatic Systems”.
+                <strong>Enlace video.</strong> Sistemas neumáticos e hidráulicos
               </p>
             </div></a
           >
@@ -447,7 +446,7 @@
         <div class="col-lg col-md-6" data-aos="fade-up">
           <a
             class="anexo ms-0"
-            href="https://www.festo.com/manuales/hidraulica_neumatica.pdf"
+            href="https://media.festo.com/media/241396_documentation.pdf"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -455,8 +454,7 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Manual Básico de Hidráulica y
-                Neumática.
+                <strong>Enlace web.</strong> Neumática e hidráulica soluciones.
               </p>
             </div></a
           >

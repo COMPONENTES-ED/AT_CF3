@@ -242,7 +242,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://www.youtube.com/watch?v=Yrj1aWS0Tt4"
+            href="https://www.youtube.com/watch?v=NPsepHRSCls"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -251,8 +251,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace video.</strong> Video- Introducción a los PLCs y
-                la Automatización Industrial.
+                <strong>Enlace video.</strong> Video- Básicos del Controlador de
+                Lógica Programable.
               </p>
             </div></a
           >
@@ -260,7 +260,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://www.festo.com/manuales/automatismos_basicos.pdf"
+            href="https://pdfcoffee.com/logica-cableada-y-programada-2-pdf-free.html"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -269,8 +269,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Tutorial en Lógica Cableada y
-                Programable.
+                <strong>Enlace web.</strong> Lógica Cableada y lógica
+                programada.
               </p>
             </div></a
           >
@@ -278,7 +278,7 @@
         <div class="col-lg mb-4 mb-lg-0 col-md-8" data-aos="fade-up">
           <a
             class="anexo ms-0 h-100"
-            href="https://www.festo.com/manuales/automatismos_basicos.pdf"
+            href="https://fiet.unicauca.edu.co/deic/sites/default/files/deic/programa/PLC.pdf"
             target="_blank"
             style="max-width:fit-content;"
           >
@@ -287,8 +287,8 @@
             </div>
             <div class="anexo__texto">
               <p class="fw-normal">
-                <strong>Enlace web.</strong> Fundamentos de programación de PLCs
-                en Ladder Logic.
+                <strong>Enlace web.</strong> Fundamentos de Programación de PLCs
+                - Ladder Logic
               </p>
             </div></a
           >
