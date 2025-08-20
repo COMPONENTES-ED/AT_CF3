@@ -281,8 +281,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema4/6.svg"
-            alt="En el diagrama «Instrumentación y control en la automatización industrial», el mapa conceptual se ramifica en nueve secciones principales que incluyen la importancia de la instrumentación, funciones, variables críticas, uso de sensores, dispositivos de control, técnicas de medición, técnicas de control, mantenimiento y calibración, y conclusiones. Cada rama principal se expande en subtemas específicos que detallan aspectos como tipos de sensores, métodos de medición y procedimientos de mantenimiento.
-"
+            alt="En el diagrama el mapa conceptual se ramifica en nueve secciones principales que incluyen la importancia de la instrumentación, funciones, variables críticas, uso de sensores, dispositivos de control, técnicas de medición, técnicas de control, mantenimiento y calibración, y conclusiones. Cada rama principal se expande en subtemas específicos que detallan aspectos como tipos de sensores, métodos de medición y procedimientos de mantenimiento."
           />
         </figure>
       </div>

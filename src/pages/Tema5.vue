@@ -415,7 +415,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema5/12.svg"
-            alt="En el diagrama «La hidráulica y neumática en la automatización industrial», el mapa conceptual ilustra seis áreas principales: fundamentos de hidráulica con líquidos, uso de gases en neumática, aplicaciones industriales (incluyendo sistemas de elevación y herramientas), principios fundamentales, exploración de aplicaciones comunes y actividades prácticas para estudiantes. Cada rama incluye subtemas específicos que detallan aspectos y usos de estos sistemas."
+            alt="Cada rama incluye subtemas específicos que detallan aspectos y usos de estos sistemas."
           />
         </figure>
       </div>

@@ -80,7 +80,7 @@
             <img
               class="mb-4"
               src="@/assets/curso/sintesis.svg"
-              alt='Se denomina «Diagrama síntesis del componente». Este mapa conceptual presenta una visión general de las "Tecnologías de Automatización y Control de Sistemas Industriales". Se estructura en seis áreas principales: automatización y control industrial, sistemas de información y gestión, gestión de variabilidad espacial y temporal, automatismos eléctricos e instrumentación, hidráulica y neumática, y la importancia de estos conocimientos. Cada rama incluye subtemas específicos que detallan los aspectos técnicos y aplicaciones en la industria moderna.'
+              alt='En la síntesis se presenta una visión general de las "Tecnologías de automatización y control de sistemas industriales". Se estructura en seis áreas principales: automatización y control industrial, sistemas de información y gestión, gestión de variabilidad espacial y temporal, automatismos eléctricos e instrumentación, hidráulica y neumática, y la importancia de estos conocimientos. Cada rama incluye subtemas específicos que detallan los aspectos técnicos y aplicaciones en la industria moderna.'
             />
           </figure>
         </div>
