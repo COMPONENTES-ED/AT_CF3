@@ -82,6 +82,7 @@
               src="@/assets/curso/sintesis.svg"
               alt='En la síntesis se presenta una visión general de las "Tecnologías de automatización y control de sistemas industriales". Se estructura en seis áreas principales: automatización y control industrial, sistemas de información y gestión, gestión de variabilidad espacial y temporal, automatismos eléctricos e instrumentación, hidráulica y neumática, y la importancia de estos conocimientos. Cada rama incluye subtemas específicos que detallan los aspectos técnicos y aplicaciones en la industria moderna.'
             />
+            <figcaption>Fuente. OIT, 2024.</figcaption>
           </figure>
         </div>
         <div class="col-auto">

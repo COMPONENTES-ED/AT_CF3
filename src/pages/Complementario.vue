@@ -61,34 +61,34 @@ export default {
         {
           tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'Fazt [@FaztTech]. (n.d.). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube.',
+            'Fazt [@FaztTech]. (n.d.). <em>¿Qué es ERP? - Conoce porque un ERP vital para empresas.</em> [Video] Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
         },
         {
           tema: 'Introducción a los Sistemas de Información',
           referencia:
-            'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es.',
+            'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). <em>Introducción a SCADA.</em> [Documento PDF]. Uco.es.',
           tipo: 'Documento',
           link:
             'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
         },
         {
           tema: 'Gestión de la Variabilidad Espacial y Temporal',
-          referencia: 'Spatial without Compromise. (n.d.). Qgis.org.',
+          referencia: '<em>Spatial without Compromise.</em> (n.d.). Qgis.org.',
           tipo: 'Software (GIS)',
           link: 'https://qgis.org',
         },
         {
           tema: 'Gestión de la Variabilidad Espacial y Temporal',
-          referencia: 'Google Earth Engine. (n.d.). Google.com.',
+          referencia: '<em>Google Earth Engine.</em> (n.d.). Google.com.',
           tipo: 'Plataforma en la nube',
           link: 'https://earthengine.google.com/',
         },
         {
           tema: 'Automatismos Eléctricos',
           referencia:
-            'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube.',
+            'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). <em>¿Qué es la AUTOMATIZACIÓN INDUSTRIAL?| Curso de Automatizacion Industrial #1.</em>  [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
         },
@@ -102,14 +102,14 @@ export default {
         },
         {
           tema: 'Automatismos Eléctricos',
-          referencia: 'CADeSIMU by canalPLC. (n.d.). [Simulador] Informer.com.',
+          referencia: '<em>Cade Simu</em>  (s/f). [Simulador] Cade-simu.com. ',
           tipo: 'Simulador',
           link: 'https://cadesimu.software.informer.com/download',
         },
         {
           tema: 'Instrumentación y Control',
           referencia:
-            'MATLAB [@MATLAB]. (s/f). What is PID control? | understanding PID control, part 1. [Video]. Youtube.',
+            'MATLAB [@MATLAB]. (s/f). <em>What is PID control? | understanding PID control, part 1.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=wkfEZmsQqiA',
         },
@@ -129,7 +129,7 @@ export default {
         {
           tema: 'Hidráulica y Neumática',
           referencia:
-            'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas. [Video].  Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2m6o49C98Mc',
+            'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 <em>Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas.</em> [Video].  Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2m6o49C98Mc',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=jR4oJUIh3jw',
         },
@@ -141,15 +141,14 @@ export default {
         },
         {
           tema: 'Hidráulica y Neumática',
-          referencia:
-            'Famic Technologies. (2021). Automation Studio – Pneumatic and Hydraulic Circuit Simulation. [Simulador]. https://www.automationstudio.com',
+          referencia: '<em>FluidSIM.</em> (s/f). [Simulador]. Festo.com. ',
           tipo: 'Simulador',
           link: 'https://www.automationstudio.com',
         },
         {
           tema: 'General (Aplicable a Varios Temas)',
           referencia:
-            'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games.',
+            'Factory I/O. (2021). <em>Industrial Automation Simulation.</em> [Simulador]. Real Games.',
           tipo: 'Simulador',
           link: 'https://factoryio.com/',
         },

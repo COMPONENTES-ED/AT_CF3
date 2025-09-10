@@ -186,9 +186,9 @@
               </figure>
               <h5>Optimización de procesos</h5>
               <p>
-                Los sistemas de información permiten que los procesos
-                productivos sean más eficientes, reduciendo tiempos de ciclo y
-                minimizando los recursos necesarios.
+                Permiten que los procesos productivos sean más eficientes,
+                reduciendo tiempos de ciclo y minimizando los recursos
+                necesarios.
               </p>
             </div>
           </div>

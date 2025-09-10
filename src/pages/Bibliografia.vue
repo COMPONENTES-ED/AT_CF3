@@ -23,23 +23,23 @@ export default {
     referencias: [
       {
         referencia:
-          'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). ¿Qué es la AUTOMATIZACIÓN INDUSTRIAL? | Curso de Automatizacion Industrial #1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
+          'AUTOMATIZACION INDUSTRIAL [@automatizacionindustrial]. (n.d.). <em>¿Qué es la AUTOMATIZACIÓN INDUSTRIAL?</em> | Curso de Automatizacion Industrial #1. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
         link: 'https://www.youtube.com/watch?v=2upZSEaqj7k&t=43s',
       },
       {
         referencia:
-          'CADe SIMU. (2021). Simulador de Circuitos de Automatización Eléctrica. [Simulador].',
+          'CADe SIMU. (2021). <em>Simulador de Circuitos de Automatización Eléctrica.</em> [Simulador].',
         link: 'https://cadesimu.software.informer.com/download',
       },
       {
         referencia:
-          'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). Introducción a SCADA. [Documento PDF]. Uco.es. Recuperado el 11 de junio de 2025, de',
+          'de Castro Lozano Cristóbal Romero Morales, A. I. H. M. P. C. (n.d.). <em>Introducción a SCADA.</em> [Documento PDF]. Uco.es. Recuperado el 11 de junio de 2025, de',
         link:
           'http://www.uco.es/grupos/eatco/automatica/ihm/descargar/scada.pdf',
       },
       {
         referencia:
-          'De Ingeniería, M. [MentalidadDeIngenier%C3%ADa]. (s/f). Conceptos Básicos del Controlador de Lógica Programable. [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
+          'De Ingeniería, M. [MentalidadDeIngenier%C3%ADa]. (s/f).<em>Conceptos Básicos del Controlador de Lógica Programable.</em> [Video]. Youtube. Recuperado el 11 de junio de 2025, de',
         link: 'https://www.youtube.com/watch?v=NPsepHRSCls',
       },
       {
@@ -50,22 +50,22 @@ export default {
       },
       {
         referencia:
-          'Esri. (2021). ArcGIS Geographic Information System. Environmental Systems Research Institute.',
+          'Esri. (2021). <em>ArcGIS Geographic Information System. Environmental Systems</em> Research Institute.',
         link: 'https://www.arcgis.com',
       },
       {
         referencia:
-          'Famic Technologies. (2021). Automation Studio – Pneumatic and Hydraulic Circuit Simulation. [Simulador].',
+          'Famic Technologies. (2021). <em>Automation Studio – Pneumatic and Hydraulic Circuit Simulation.</em> [Simulador].',
         link: 'https://www.automationstudio.com',
       },
       {
         referencia:
-          'Factory I/O. (2021). Industrial Automation Simulation. [Simulador]. Real Games.',
+          'Factory I/O. (2021). <em>Industrial Automation Simulation.</em> [Simulador]. Real Games.',
         link: 'https://factoryio.com/',
       },
       {
         referencia:
-          'Fazt [@FaztTech]. (s/f). ¿Qué es ERP? - Conoce porque un ERP vital para empresas. [Video] Youtube. Recuperado el 11 de junio de 2025, de',
+          'Fazt [@FaztTech]. (s/f).<em>¿Qué es ERP? - Conoce porque un ERP vital para empresas.</em> [Video] Youtube. Recuperado el 11 de junio de 2025, de',
         link: 'https://www.youtube.com/watch?v=6Mncbrp80To&t=92s',
       },
       {
@@ -80,7 +80,7 @@ export default {
       },
       {
         referencia:
-          'Google Earth Engine. (s/f). Google.com. Recuperado el 11 de junio de 2025, de',
+          '<em>Google Earth Engine.</em> (s/f). Google.com. Recuperado el 11 de junio de 2025, de',
         link: 'https://earthengine.google.com/',
       },
       {
@@ -91,7 +91,7 @@ export default {
       },
       {
         referencia:
-          'Inductive Automation. (2021). Ignition – SCADA/HMI Software.',
+          'Inductive Automation. (2021). <em>Ignition – SCADA/HMI Software.</em>',
         link: 'https://inductiveautomation.com/',
       },
       {
@@ -106,12 +106,12 @@ export default {
       },
       {
         referencia:
-          'RealPars. (2019, June 17). PID Control Explained [Video]. YouTube.',
+          'RealPars. (2019, June 17). <em>PID Control Explained</em> [Video]. YouTube.',
         link: 'https://www.youtube.com/watch?v=wkfEZmsQqiA',
       },
       {
         referencia:
-          'Spatial without Compromise. (n.d.). Qgis.org. Recuperado el 11 de junio de 2025, de',
+          '<em>Spatial without Compromise.</em> (n.d.). Qgis.org. Recuperado el 11 de junio de 2025, de',
         link: 'https://qgis.org/',
       },
       {
