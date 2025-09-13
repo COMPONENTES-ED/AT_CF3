@@ -131,7 +131,7 @@ export default {
           referencia:
             'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 <em>Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas.</em> [Video].  Youtube.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=2m6o49C98M',
+          link: 'https://www.youtube.com/watch?v=2m6o49C98Mc',
         },
         {
           tema: 'Hidráulica y Neumática',
