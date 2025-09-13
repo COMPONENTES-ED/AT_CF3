@@ -124,10 +124,14 @@ export default {
   computed: {
     orderedData() {
       return [...this.referencias].sort((a, b) => {
-        const afl = this.quitarAcentos(a.referencia.split(' ')[0].toLowerCase())
-        const bfl = this.quitarAcentos(b.referencia.split(' ')[0].toLowerCase())
-        if (afl < bfl) return -1
-        if (afl > bfl) return 1
+        const aTexto = this.limpiarHTML(a.referencia)
+        const bTexto = this.limpiarHTML(b.referencia)
+
+        const aNormal = this.quitarAcentos(aTexto.toLowerCase())
+        const bNormal = this.quitarAcentos(bTexto.toLowerCase())
+
+        if (aNormal < bNormal) return -1
+        if (aNormal > bNormal) return 1
         return 0
       })
     },
@@ -135,6 +139,10 @@ export default {
   methods: {
     quitarAcentos(str) {
       return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    },
+    limpiarHTML(str) {
+      // Elimina cualquier etiqueta HTML para comparar solo texto plano
+      return str.replace(/<\/?[^>]+(>|$)/g, '')
     },
   },
 }

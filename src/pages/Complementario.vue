@@ -63,7 +63,7 @@ export default {
           referencia:
             'Fazt [@FaztTech]. (n.d.). <em>¿Qué es ERP? - Conoce porque un ERP vital para empresas.</em> [Video] Youtube.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
+          link: 'https://www.youtube.com/watch?v=6Mncbrp80To&t=92s',
         },
         {
           tema: 'Introducción a los Sistemas de Información',
@@ -104,7 +104,7 @@ export default {
           tema: 'Automatismos Eléctricos',
           referencia: '<em>Cade Simu</em>  (s/f). [Simulador] Cade-simu.com. ',
           tipo: 'Simulador',
-          link: 'https://cadesimu.software.informer.com/download',
+          link: 'https://cade-simu.com/',
         },
         {
           tema: 'Instrumentación y Control',
@@ -122,16 +122,16 @@ export default {
         {
           tema: 'Instrumentación y Control',
           referencia:
-            'MathWorks. (2021). MATLAB – Instrumentation Simulation. [Simulador]. https://www.mathworks.com/products/matlab.html',
+            'MathWorks. (2021). MATLAB – Instrumentation Simulation. [Simulador].',
           tipo: 'Simulador',
           link: 'https://www.mathworks.com/products/matlab.html',
         },
         {
           tema: 'Hidráulica y Neumática',
           referencia:
-            'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 <em>Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas.</em> [Video].  Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=2m6o49C98Mc',
+            'Mecatrónica, B. [@Biwy-mecatronica]. (s/f). 01 <em>Sistemas Neumáticos e Hidráulicos (Introducción), y Válvulas.</em> [Video].  Youtube.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=jR4oJUIh3jw',
+          link: 'https://www.youtube.com/watch?v=2m6o49C98M',
         },
         {
           tema: 'Hidráulica y Neumática',
@@ -143,7 +143,7 @@ export default {
           tema: 'Hidráulica y Neumática',
           referencia: '<em>FluidSIM.</em> (s/f). [Simulador]. Festo.com. ',
           tipo: 'Simulador',
-          link: 'https://www.automationstudio.com',
+          link: 'https://fluidsim.festo.com/login',
         },
         {
           tema: 'General (Aplicable a Varios Temas)',
